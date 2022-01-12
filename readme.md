@@ -2,7 +2,7 @@
 
 # IENGROUND
 Graphic Designer, Android Programmer. 
-Sogang University Art&Technology '20.
+Sogang University Art&Technology '20.<br>
 Served in R.O.K.A since Feb 7, 2022.
 
 <h3 align="left">Connect with me:</h3>
