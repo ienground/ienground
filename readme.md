@@ -1,4 +1,4 @@
-![IENGROUND](https://github.com/ienground/ienground/blob/main/%EB%8C%80%EC%A7%80%201.png?raw=true)
+![IENGROUND](https://raw.githubusercontent.com/ienground/ienground/fabd96e585b22732f6b05c71d0bb3c6076d8a9db/%EB%8C%80%EC%A7%80%201.png)
 
 # IENGROUND
 Graphic Designer, Android Programmer. 
