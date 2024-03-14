@@ -1,16 +1,50 @@
 ![IENGROUND](https://raw.githubusercontent.com/ienground/ienground/main/dev_page.png)
 
 # IENGROUND
-Graphic Designer, Android Programmer. 
+Graphic Designer, Android Programmer.
 Sogang University Art&Technology '20.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ienlab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ienlab" height="30" width="40" /></a>
-<a href="https://instagram.com/ienlab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ienlab" height="30" width="40" /></a>
-<a href="https://www.behance.net/ericanorhee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ericanorhee" height="30" width="40" /></a>
-<a href="/https://www.ienlab.net/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.ienlab.net/rss" height="30" width="40" /></a>
+## Contact
+<p align="center">
+<a href="mailto:my@ien.zone" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://fb.com/ienlab" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2Fienlab"></a>
+<a href="https://instagram.com/ienlab" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.behance.net/ericanorhee" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://blog.ien.zone/rss" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Rss-f26522?style=for-the-badge&logo=rss&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Languages & Tools
+
+### Development
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/p5.js-%23ED225D?style=for-the-badge&logo=p5.js&logoColor=white">
+
+</p>
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-E24462?style=for-the-badge&logo=kotlin&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Clang-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+
+</p>
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Webstorm-%23000000?style=for-the-badge&logo=webstorm&logoColor=white">
+
+</p>
+
+### Design
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+</p>
