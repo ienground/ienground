@@ -1,7 +1,8 @@
 ![IENGROUND](https://raw.githubusercontent.com/ienground/ienground/main/dev_page.png)
 
 # IENGROUND
-Graphic Designer, Android Programmer.
+Graphic Designer, Android Developer.
+
 Sogang University Art&Technology '20.
 
 ## Contact
