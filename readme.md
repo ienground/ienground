@@ -2,7 +2,9 @@
 
 # IENGROUND
 Graphic Designer, Android Developer.
+
 Sogang University Art&Technology '20.
+
 Gyeongsan Science High School 10th.
 
 ## Contact
