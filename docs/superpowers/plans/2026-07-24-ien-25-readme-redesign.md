@@ -4,7 +4,7 @@
 
 **목표:** 마이크로사이트 `/about`의 최신 소개 정보를 누락 없이 반영한 GitHub 프로필 README를 만든다.
 
-**구성:** 단일 `readme.md` 안에서 대표 이미지, 소개, 학력과 기술, 발자취, 대학 활동, 장비, 연락처를 순서대로 제공한다. 반복 데이터는 Markdown 표로 표현하고 기존 `.gitignore` 변경은 작업 범위에서 제외한다.
+**구성:** 단일 `readme.md` 안에서 대표 이미지, 소개, 학력과 기술, 발자취, 대학 활동, 장비, 연락처를 순서대로 제공한다. 학력·주요 발자취·대학 활동은 표로 정리하고, 작업 장비는 긴 설명의 가독성을 위해 분류별 목록으로 정리한다. 기존 `.gitignore` 변경은 작업 범위에서 제외한다.
 
 **기술:** GitHub 호환 Markdown, 제한적인 HTML 배지
 
@@ -97,11 +97,11 @@ git diff --check -- readme.md
 실행:
 
 ```bash
-git diff --name-only 9150f36..HEAD -- readme.md docs/superpowers/specs/2026-07-24-ien-25-readme-redesign.md docs/superpowers/plans/2026-07-24-ien-25-readme-redesign.md
+git diff --name-only 9150f36..HEAD
 git diff --check 9150f36..HEAD -- readme.md docs/superpowers/specs/2026-07-24-ien-25-readme-redesign.md docs/superpowers/plans/2026-07-24-ien-25-readme-redesign.md
 ```
 
-예상 결과: README와 설계·계획 문서 세 파일이 커밋 범위에 나타나며, 공백 오류 없이 종료 코드 0이다.
+예상 결과: README와 설계·계획 문서 세 파일만 출력되고, 공백 오류 없이 종료 코드 0이다.
 
 - [x] **2단계: 링크 형식 확인**
 
