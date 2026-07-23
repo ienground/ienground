@@ -1,10 +1,21 @@
-![IENGROUND](https://raw.githubusercontent.com/ienground/ienground/main/dev_page.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ienground/ienground/main/dev_page.png" alt="IENGROUND" width="100%" />
+</p>
 
-# 안녕하세요, 아이엔입니다 👋
+<h1 align="center">안녕하세요, 이현우입니다 👋</h1>
 
-## About
+<p align="center">
+  <strong>IENGROUND</strong><br />
+  모바일 개발자 · 웹 개발자 · 그래픽 디자이너
+</p>
 
-이현우 IENGROUND
+<p align="center">
+  <a href="https://www.ien.zone/project">포트폴리오</a> ·
+  <a href="https://github.com/ienground">GitHub</a> ·
+  <a href="mailto:my@ien.zone">이메일</a>
+</p>
+
+## 소개
 
 무언가를 만드는 게 좋아서 레고 조립과 Minecraft를 즐겨했습니다. PowerPoint로 게임을 만들고, 조별과제에서는 발표 자료를 맡는 경우가 많았습니다.
 
@@ -14,40 +25,26 @@
 
 2017년부터 Android 개발을 시작해 현재는 Compose Multiplatform으로 Android 및 iOS 어플리케이션을 개발하고 있습니다.
 
-고객이 원하는 소프트웨어를 만들기 위해 많은 대화를 나누며 진행하고 있습니다.
+고객이 원하는 소프트웨어를 만들기 위해 많은 대화를 나누며 진행하고 있습니다. 혼자 진행해 쉴 새 없이 바쁘지만, 그만큼 고객의 프로젝트를 더 잘 이해하고 있다고 자부합니다.
 
-혼자 진행해 쉴 새 없이 바쁘지만, 그만큼 고객의 프로젝트를 더 잘 이해하고 있다고 자부합니다.
+## 기술 스택
 
-## 학력 및 기술 스택
+| 분야 | 설명 | 기술 및 도구 |
+| --- | --- | --- |
+| 개발 | 제품과 서비스를 설계하고 구현할 때 사용하는 핵심 언어와 프레임워크 | `Compose Multiplatform` · `Kotlin` · `React` · `TypeScript` · `Firebase` |
+| 디자인 | 제품의 인터페이스와 그래픽 자산을 설계할 때 사용하는 도구 | `Figma` · `Photoshop` · `Illustrator` · `Stitch` |
+| 작업 환경 | 개발, 협업, 테스트, 문서화를 위해 사용하는 작업 환경과 도구 | `Android Studio` · `WebStorm` · `GitHub` · `Postman` · `Notion` |
 
-### 학력
+## 학력
 
 | 연도 | 학교 | 내용 |
 | --- | --- | --- |
 | 2019 | 경산과학고등학교 | 10기 졸업 |
 | 2025 | 서강대학교 아트&테크놀로지 | 예술공학사, 우등 졸업 |
 
-### 개발
+## 주요 활동
 
-제품과 서비스를 설계하고 구현할 때 사용하는 핵심 언어와 프레임워크
-
-`Compose Multiplatform` · `Kotlin` · `React` · `TypeScript` · `Firebase`
-
-### 디자인
-
-제품의 인터페이스와 그래픽 자산을 설계할 때 사용하는 도구
-
-`Figma` · `Photoshop` · `Illustrator` · `Stitch`
-
-### 도구
-
-개발, 협업, 테스트, 문서화를 위해 사용하는 작업 환경과 도구
-
-`Android Studio` · `WebStorm` · `GitHub` · `Postman` · `Notion`
-
-## 기억할 만한 순간들
-
-| 연도 | 활동 | 내용 |
+| 기간 | 활동 | 역할 및 성과 |
 | --- | --- | --- |
 | 2016 - 2017 | 개발팀 Qwerty | UI/UX 디자이너 |
 | 2019 | 감성에디터 | 10K+ 다운로드 돌파 |
@@ -59,7 +56,7 @@
 
 ## 대학 활동
 
-| 연도 | 활동 | 내용 |
+| 연도 | 활동 | 역할 및 성과 |
 | --- | --- | --- |
 | 2020 | 제1대 지식융합미디어학부 학생회 「Zoom-人」 | 디자인팀 팀원 |
 | 2021 | 2021학년도 지식융합미디어학부 새내기맞이사업단 | C섹션 단원 |
@@ -71,7 +68,7 @@
 | 2024 | 2024-2학기 서강 융합기술 경진대회 「@OMO_unofficial」 | 최우수상 |
 | 2025 | 예술공학사 | 우등 졸업 |
 
-## 작업 장비
+## 작업 환경
 
 ### 주 개발 장비
 
@@ -101,8 +98,4 @@
 
 포트폴리오를 둘러보거나, 코드를 확인하거나, 짧은 메일을 보내주시면 감사하겠습니다.
 
-- [포트폴리오](https://www.ien.zone/project)
-- [GitHub](https://github.com/ienground)
-- [Instagram](https://www.instagram.com/ienlab)
-- [이메일](mailto:my@ien.zone)
-- [블로그](https://blog.ien.zone)
+[포트폴리오](https://www.ien.zone/project) · [GitHub](https://github.com/ienground) · [Instagram](https://www.instagram.com/ienlab) · [이메일](mailto:my@ien.zone) · [블로그](https://blog.ien.zone)
