@@ -97,11 +97,11 @@ git diff --check -- readme.md
 실행:
 
 ```bash
-git status --short
-git diff -- readme.md docs/superpowers/plans/2026-07-24-ien-25-readme-redesign.md
+git diff --name-only 9150f36..HEAD -- readme.md docs/superpowers/specs/2026-07-24-ien-25-readme-redesign.md docs/superpowers/plans/2026-07-24-ien-25-readme-redesign.md
+git diff --check 9150f36..HEAD -- readme.md docs/superpowers/specs/2026-07-24-ien-25-readme-redesign.md docs/superpowers/plans/2026-07-24-ien-25-readme-redesign.md
 ```
 
-예상 결과: README와 계획 문서만 이번 구현 변경으로 나타나며, 기존 `.gitignore` 변경은 그대로 보존된다.
+예상 결과: README와 설계·계획 문서 세 파일이 커밋 범위에 나타나며, 공백 오류 없이 종료 코드 0이다.
 
 - [x] **2단계: 링크 형식 확인**
 

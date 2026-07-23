@@ -29,19 +29,19 @@
 
 ### 개발
 
-제품과 서비스를 설계하고 구현할 때 사용하는 핵심 언어와 프레임워크입니다.
+제품과 서비스를 설계하고 구현할 때 사용하는 핵심 언어와 프레임워크
 
 `Compose Multiplatform` · `Kotlin` · `React` · `TypeScript` · `Firebase`
 
 ### 디자인
 
-제품의 인터페이스와 그래픽 자산을 설계할 때 사용하는 도구입니다.
+제품의 인터페이스와 그래픽 자산을 설계할 때 사용하는 도구
 
 `Figma` · `Photoshop` · `Illustrator` · `Stitch`
 
 ### 도구
 
-개발, 협업, 테스트, 문서화를 위한 작업 환경과 도구입니다.
+개발, 협업, 테스트, 문서화를 위해 사용하는 작업 환경과 도구
 
 `Android Studio` · `WebStorm` · `GitHub` · `Postman` · `Notion`
 
@@ -96,6 +96,10 @@
 - **Google Pixel 7a** — 2025년에 구매한 개발용 레퍼런스 기기. 합리적인 가격에 Android 개발용 레퍼런스 기기를 구매할 수 있었다. 성능도 빠른 편.
 
 ## 연락처
+
+### 당신의 비즈니스에 제 기술을 더합니다.
+
+포트폴리오를 둘러보거나, 코드를 확인하거나, 짧은 메일을 보내주시면 감사하겠습니다.
 
 - [포트폴리오](https://www.ien.zone/project)
 - [GitHub](https://github.com/ienground)
