@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/ienground_profile_2024.jpg" width="160" style="border-radius: 20px; object-fit: cover;" alt="이현우 IENGROUND" />
+  <img src="images/ienground_profile_2024.png" width="160" alt="이현우 IENGROUND" />
 </p>
 
 <p align="center">
@@ -68,45 +68,3 @@
 | 개발 | ![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-1E1E2E?style=flat-square&logo=jetpackcompose&logoColor=4285F4) ![Kotlin](https://img.shields.io/badge/Kotlin-1E1E2E?style=flat-square&logo=kotlin&logoColor=7F52FF) ![React](https://img.shields.io/badge/React-1E1E2E?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-1E1E2E?style=flat-square&logo=typescript&logoColor=3178C6) ![Firebase](https://img.shields.io/badge/Firebase-1E1E2E?style=flat-square&logo=firebase&logoColor=DD2C00) |
 | 디자인 | ![Figma](https://img.shields.io/badge/Figma-1E1E2E?style=flat-square&logo=figma&logoColor=F24E1E) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-1E1E2E?style=flat-square&logo=adobephotoshop&logoColor=31A8FF) ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-1E1E2E?style=flat-square&logo=adobeillustrator&logoColor=FF9A00) ![Stitch](https://img.shields.io/badge/Stitch-1E1E2E?style=flat-square&logo=stitch&logoColor=white) |
 | 작업 환경 | ![Android Studio](https://img.shields.io/badge/Android_Studio-1E1E2E?style=flat-square&logo=androidstudio&logoColor=3DDC84) ![WebStorm](https://img.shields.io/badge/WebStorm-1E1E2E?style=flat-square&logo=webstorm&logoColor=00CDD7) ![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-1E1E2E?style=flat-square&logo=postman&logoColor=FF6C37) ![Notion](https://img.shields.io/badge/Notion-1E1E2E?style=flat-square&logo=notion&logoColor=white) |
-
-<p align="center">
-  <a href="https://www.ien.zone/project" title="포트폴리오">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="icons/icon-global-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="icons/icon-global-light.svg" />
-      <img src="icons/icon-global-light.svg" width="24" height="24" alt="포트폴리오" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ienground" title="GitHub">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="icons/icon-github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="icons/icon-github-light.svg" />
-      <img src="icons/icon-github-light.svg" width="24" height="24" alt="GitHub" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ienlab" title="Instagram">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="icons/icon-instagram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="icons/icon-instagram-light.svg" />
-      <img src="icons/icon-instagram-light.svg" width="24" height="24" alt="Instagram" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:my@ien.zone" title="이메일">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="icons/icon-mail-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="icons/icon-mail-light.svg" />
-      <img src="icons/icon-mail-light.svg" width="24" height="24" alt="이메일" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://blog.ien.zone" title="블로그">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="icons/icon-blog-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="icons/icon-blog-light.svg" />
-      <img src="icons/icon-blog-light.svg" width="24" height="24" alt="블로그" />
-    </picture>
-  </a>
-</p>
