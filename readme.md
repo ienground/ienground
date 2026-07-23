@@ -1,53 +1,96 @@
 ![IENGROUND](https://raw.githubusercontent.com/ienground/ienground/main/dev_page.png)
 
-# IENGROUND
-Graphic Designer, Android Developer.
+# 안녕하세요, 아이엔입니다 👋
 
-Sogang University Art&Technology '20.
+## About
 
-Gyeongsan Science High School 10th.
+이현우 IENGROUND입니다. 그래픽 디자인을 거쳐 현재는 코드를 직조하는 작업을 합니다.
 
-## Contact
-<p align="center">
-<a href="mailto:my@ien.zone" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://fb.com/ienlab" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2Fienlab"></a>
-<a href="https://instagram.com/ienlab" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.behance.net/ericanorhee" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white"></a>
-<a href="https://blog.ien.zone/rss" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Rss-f26522?style=for-the-badge&logo=rss&logoColor=white"></a>
-</p>
+무언가를 만드는 게 좋아서 레고 조립과 Minecraft를 즐겨했습니다. PowerPoint로 게임을 만들고, 조별과제에서는 발표 자료를 맡는 경우가 많았습니다. 상상하고, 만들고, 그것을 꺼내놓을 수 있다는 것보다 더 가치있고 즐거운 일이 있을까요?
 
-## Languages & Tools
+2017년부터 Android 개발을 시작해 현재는 Compose Multiplatform으로 Android 및 iOS 애플리케이션을 개발하고 있습니다. 고객이 원하는 소프트웨어를 만들기 위해 많은 대화를 나누며 진행합니다.
 
-### Development
-<p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/p5.js-%23ED225D?style=for-the-badge&logo=p5.js&logoColor=white">
+## 학력 및 기술 스택
 
-</p>
-<p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-E24462?style=for-the-badge&logo=kotlin&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+### 학력
 
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Clang-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+| 연도 | 학교 | 내용 |
+| --- | --- | --- |
+| 2019 | 경산과학고등학교 | 10기 졸업 |
+| 2025 | 서강대학교 아트&테크놀로지 | 예술공학사, 우등 졸업 |
 
-</p>
-<p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Webstorm-%23000000?style=for-the-badge&logo=webstorm&logoColor=white">
+### 개발
 
-</p>
+제품과 서비스를 설계하고 구현할 때 사용하는 핵심 언어와 프레임워크입니다.
 
-### Design
-<p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+`Compose Multiplatform` · `Kotlin` · `React` · `TypeScript` · `Firebase`
 
-</p>
+### 디자인
+
+제품의 인터페이스와 그래픽 자산을 설계할 때 사용하는 도구입니다.
+
+`Figma` · `Photoshop` · `Illustrator` · `Stitch`
+
+### 도구
+
+개발, 협업, 테스트, 문서화를 위한 작업 환경과 도구입니다.
+
+`Android Studio` · `WebStorm` · `GitHub` · `Postman` · `Notion`
+
+## 기억할 만한 순간들
+
+| 연도 | 활동 | 내용 |
+| --- | --- | --- |
+| 2016 - 2017 | 개발팀 Qwerty | UI/UX 디자이너 |
+| 2019 | 감성에디터 | 10K+ 다운로드 돌파 |
+| 2019 | 블로그 플래너 | 5K+ 다운로드 돌파 |
+| 2020 | 아트&테크놀로지 컨퍼런스 2020 | 브랜딩팀 팀원 |
+| 2021 | 알바트로스 리마인더 | 교내 언론 인터뷰 |
+| 2024 | 아트&테크놀로지 컨퍼런스 2024 | 디자인팀 팀장 |
+| 2024 - 2025 | @OMO_unofficial | 학과 미디어오피스 시스템 개발 |
+
+## 대학 활동
+
+| 연도 | 활동 | 내용 |
+| --- | --- | --- |
+| 2020 | 제1대 지식융합미디어학부 학생회 「Zoom-人」 | 디자인팀 팀원 |
+| 2021 | 2021학년도 지식융합미디어학부 새내기맞이사업단 | C섹션 단원 |
+| 2021 | 제2대 아트&테크놀로지 전공학생회 「마젠타」 | 학생회장 |
+| 2021 | Intro to Creative Computing | Final Best Work 선정 |
+| 2021 | Creative Algorithm | Final Best Work 선정 |
+| 2024 | Small Creators Group 「@OMO_unofficial」 | 우수 팀 선정 |
+| 2024 | Creative Capstone Project II | Best Work 선정 |
+| 2024 | 2024-2학기 서강 융합기술 경진대회 「@OMO_unofficial」 | 최우수상 |
+| 2025 | 예술공학사 | 우등 졸업 |
+
+## 작업 장비
+
+### 주 개발 장비
+
+- **MacBook Pro 16"** — 2023년형 M2 Max 64GB 모델로, Android·iOS·웹 개발과 로컬 AI 모델 작업을 진행합니다.
+- **Dell U2723QE** — 2023년부터 사용한 27인치 디자이너용 모니터로, USB-C 연결로 작업합니다.
+
+### 주 모바일 기기
+
+- **iPhone 16 Pro** — 2024년부터 사용한 메인 휴대폰이자 iOS 개발용 기기입니다.
+- **iPad Pro 13"** — 2025년에 추가한 태블릿 겸 보조 모니터입니다.
+- **Apple Watch Series 10** — 알림, 운동, 교통카드에 활용하는 스마트워치입니다.
+
+### 음향 장비
+
+- **SONY WH-1000XM6** — 2025년에 구매한 노이즈 캔슬링 작업용 헤드폰입니다.
+- **AirPods Pro 2** — 기기 전환과 편의 기능을 위해 사용하는 노이즈 캔슬링 이어폰입니다.
+
+### 기타 장비
+
+- **Logitech MX Master 4** — 부드럽고 조용한 작업용 마우스입니다.
+- **Logitech CRAFT** — 2021년에 구매한 작업용 키보드입니다.
+- **Google Pixel 7a** — 2025년에 구매한 Android 개발용 레퍼런스 기기입니다.
+
+## 연락처
+
+- [포트폴리오](https://www.ien.zone/project)
+- [GitHub](https://github.com/ienground)
+- [Instagram](https://www.instagram.com/ienlab)
+- [이메일](mailto:my@ien.zone)
+- [블로그](https://blog.ien.zone)
